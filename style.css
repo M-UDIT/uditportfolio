@@ -1,0 +1,13 @@
+.box{
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-inline-start: 0;
+    font-size: medium;
+    width: 1490px;
+    height:250px;
+}
